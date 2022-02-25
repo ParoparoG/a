@@ -5,12 +5,12 @@
 
 <body background="background.jpg">
 <font color=black>
-<h1 align=center>CAE PT</h1>
+<h1 align=center>CAE</h1>
 </font>
 <hr>
 <center>
 <table border=5 bgcolor=pink width=50%>
-<th>CAE PT</th>
+<th><a href="Homepage.html">HOMEPAGE</a></th>
 </table>
 </center>
 <hr>
